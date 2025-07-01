@@ -1,4 +1,12 @@
 {
+      "name": "mindcraft-threshold",
+      "version": "1.0.0",
+      "description": "Mindcraft Threshold Edition — a hard fork with AI persona, memory, and world awareness.",
+      "author": "Digital Heresy",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/Digital-Heresy/mindcraft-threshold.git"
+      }
     "type": "module",
     "dependencies": {
         "@anthropic-ai/sdk": "^0.17.1",
